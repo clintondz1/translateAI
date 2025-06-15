@@ -1,0 +1,2 @@
+# translateAI
+Bot Telegram OKVIP
